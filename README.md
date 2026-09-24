@@ -1,1 +1,2 @@
 # athena_technologies-assignment-kubo_yuichirou
+#データをdataフォルダへ配置して実行してください。
